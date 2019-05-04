@@ -1,0 +1,45 @@
+Program is found
+Statement Sequence is found
+Statement is found
+Read Statement is found
+read
+Statement is found
+If Statement is found
+if
+Exp is found
+ERROR: Unrecognized token (!), Expected ('(' or number or identifier) after (<).
+then
+Statement Sequence is found
+Statement is found
+Assign Statement is found
+Exp is found
+Statement is found
+Repeat Statement is found
+repeat
+Statement Sequence is found
+Statement is found
+Assign Statement is found
+Exp is found
+Statement is found
+Assign Statement is found
+Exp is found
+until
+Exp is found
+Statement is found
+Write Statement is found
+write
+Exp is found
+end
+Statement is found
+If Statement is found
+if
+Exp is found
+then
+Statement Sequence is found
+Statement is found
+Repeat Statement is found
+repeat
+Statement Sequence is found
+Statement is found
+Exp is found
+Error, Incorrect Code
